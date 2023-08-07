@@ -1,10 +1,10 @@
 ### Hi there 👋
-![Mercy_img](https://github.com/Charity10/Charity10/assets/66358526/0c78aa3f-e9bc-48a0-8432-c9e745c23fb9)
 
+![Mercy](https://github.com/Charity10/Charity10/assets/66358526/02d6b8cc-60ef-4296-941f-3e2d642dd9ea)
 
-My name is Mercy Umoh, a computer Engineering student at obafemi Awolowo university.
+My name is Mercy Umoh, a Computer Engineering student at Obafemi Awolowo university.
 
-I have an interest in frontend Development currently taking a course on reactjs.
+I have an interest in frontend Development currently taking a course on Reactjs.
 I'm also working on an energy data bank website for Nigeria as my Student industrial work experience scheme (SIWES) Project.
 
 - 🔭 I’m currently working on Energy Data bank for Nigeria
