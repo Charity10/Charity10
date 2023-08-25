@@ -14,7 +14,7 @@ I'm also working on an energy data bank website for Nigeria as my Student Indust
 * 😄 Pronouns: She/her
 * ⚡ Fun fact: I have a very good memory, I can recall events from a very long time ago vividly
 
-## Project I'm currently working on
+## Projects I'm currently working on
 + I'm currently working the frontend interface for an energy data bank
 + I'm currently building an E-commerce website
 
